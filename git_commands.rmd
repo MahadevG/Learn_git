@@ -1,0 +1,21 @@
+Basic commandss
+* git init //Initialize local git Repository
+* git add <file> // add files
+* git status //check the status of working tree
+* git commit //commit changes in index
+* git push // push to remote Repository
+* git pull //pull latest from remote Repository
+* git clone // clone a remote Repository
+
+Git config commands
+ git config --global user.name 'user_name'
+ git config --global user.email 'user_email'
+
+git add  commands
+* git add index.html
+* git add * .html // adds all html files
+* git add . // add all files 
+
+
+remove a added file
+ * git rm --cached index.html
