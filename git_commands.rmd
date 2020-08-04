@@ -19,3 +19,11 @@ git add  commands
 
 remove a added file
  * git rm --cached index.html
+
+
+Commit commands
+* git commit -m 'Message goes here'
+
+
+Ignore commands
+* 
