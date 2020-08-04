@@ -26,4 +26,11 @@ Commit commands
 
 
 Ignore commands
-* 
+* add to be ignoered files inside .gitignore file
+
+
+Branch commands
+* git branch  // lists all the branches
+* git branch branch_name  // creates a local branch 
+* git checkout branch_name  // switch to branch_name 
+
